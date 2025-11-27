@@ -462,13 +462,14 @@ python generate.py \
 
 If you use this code in your research, please cite:
 ```bibtex
-@misc{sahoo2024panoramic,
+@misc{sahoo2025panoramic,
   author       = {Sahoo, Anshuman and Chamola, Vinay},
   title        = {PanoramicGAN: Conditional GAN for Panoramic Scene Generation},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/panoramic-gan}}
+  howpublished = {\url{https://github.com/Anshuman047/PanoramicGAN}}
 }
+```
 
 ## 📄 License
 
