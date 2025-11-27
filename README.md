@@ -1,5 +1,8 @@
 # Panoramic Scene Generation using Conditional GAN
-**Generating Seamless 360° Panoramic Images across Multiple Scene Categories**
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+*Generating Seamless 360° Panoramic Images across Multiple Scene Categories*
 
 ## Abstract
 This repository presents a Conditional Generative Adversarial Network (GAN) for generating panoramic images (128×256 resolution) across three distinct scene categories: city, forest, and rural. The model achieves competitive performance, with an FID of 70.04 and an Inception Score of 2.65, on a challenging dataset of 25,934 panoramic images. Key contributions include systematic hyperparameter optimization to overcome mode collapse during training, a progressive fine-tuning strategy spanning 250 epochs, and careful loss balancing through the use of spectral normalization and gradient penalties.
