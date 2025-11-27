@@ -458,3 +458,15 @@ python generate.py \
 
 ---
 
+## 📄 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+### What This Means:
+- ✅ **You can** use this code for commercial and non-commercial purposes
+- ✅ **You can** modify and distribute this code
+- ✅ **You must** include the license and copyright notice
+- ✅ **You must** state significant changes made to the code
+- ✅ **Patent grant** is included - contributors grant patent rights to users
+
+For more information, see the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
