@@ -62,7 +62,7 @@
     
     <g transform="translate(25, 70)">
       <rect x="0" y="0" width="135" height="95" fill="url(#genGrad)" stroke="#4338CA" stroke-width="3" rx="6" filter="url(#shadow)"/>
-      <text x="67.5" y="35" text-anchor="middle" style="font-size:17px;font-weight:700;fill:white">ConvTrans 4×2</text>
+      <text x="67.5" y="35" text-anchor="middle" style="font-size:20px;font-weight:700;fill:white">ConvTrans 4×2</text>
       <text x="67.5" y="60" text-anchor="middle" style="font-size:16px;fill:white">512→256</text>
       <text x="67.5" y="80" text-anchor="middle" style="font-size:16px;fill:white">16×32</text>
       <rect x="0" y="115" width="135" height="70" fill="url(#resGrad)" stroke="#D97706" stroke-width="3" rx="6" filter="url(#shadow)"/>
@@ -73,7 +73,7 @@
     
     <g transform="translate(180, 70)">
       <rect x="0" y="0" width="135" height="95" fill="url(#genGrad)" stroke="#4338CA" stroke-width="3" rx="6" filter="url(#shadow)"/>
-      <text x="67.5" y="35" text-anchor="middle" style="font-size:17px;font-weight:700;fill:white">ConvTrans 4×2</text>
+      <text x="67.5" y="35" text-anchor="middle" style="font-size:20px;font-weight:700;fill:white">ConvTrans 4×2</text>
       <text x="67.5" y="60" text-anchor="middle" style="font-size:16px;fill:white">256→128</text>
       <text x="67.5" y="80" text-anchor="middle" style="font-size:16px;fill:white">32×64</text>
       <rect x="0" y="115" width="135" height="70" fill="url(#resGrad)" stroke="#D97706" stroke-width="3" rx="6" filter="url(#shadow)"/>
@@ -84,7 +84,7 @@
     
     <g transform="translate(335, 70)">
       <rect x="0" y="0" width="135" height="95" fill="url(#genGrad)" stroke="#4338CA" stroke-width="3" rx="6" filter="url(#shadow)"/>
-      <text x="67.5" y="35" text-anchor="middle" style="font-size:17px;font-weight:700;fill:white">ConvTrans 4×2</text>
+      <text x="67.5" y="35" text-anchor="middle" style="font-size:20px;font-weight:700;fill:white">ConvTrans 4×2</text>
       <text x="67.5" y="60" text-anchor="middle" style="font-size:16px;fill:white">128→64</text>
       <text x="67.5" y="80" text-anchor="middle" style="font-size:16px;fill:white">64×128</text>
       <rect x="0" y="115" width="135" height="70" fill="url(#resGrad)" stroke="#D97706" stroke-width="3" rx="6" filter="url(#shadow)"/>
@@ -95,7 +95,7 @@
     
     <g transform="translate(490, 70)">
       <rect x="0" y="0" width="135" height="95" fill="url(#genGrad)" stroke="#4338CA" stroke-width="3" rx="6" filter="url(#shadow)"/>
-      <text x="67.5" y="35" text-anchor="middle" style="font-size:17px;font-weight:700;fill:white">ConvTrans 4×2</text>
+      <text x="67.5" y="35" text-anchor="middle" style="font-size:20px;font-weight:700;fill:white">ConvTrans 4×2</text>
       <text x="67.5" y="60" text-anchor="middle" style="font-size:16px;fill:white">64→32</text>
       <text x="67.5" y="80" text-anchor="middle" style="font-size:16px;fill:white">128×256</text>
       <rect x="0" y="115" width="135" height="70" fill="url(#resGrad)" stroke="#D97706" stroke-width="3" rx="6" filter="url(#shadow)"/>
@@ -195,7 +195,7 @@
   <path d="M 1070 460 L 1070 630 L 140 630 L 140 755" stroke="#F59E0B" stroke-width="2" stroke-dasharray="8,8" fill="none" marker-end="url(#arrowhead)"/>
 
   <g transform="translate(1180, 80)">
-    <rect x="0" y="0" width="400" height="780" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="3" rx="10" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="400" height="550" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="3" rx="10" filter="url(#shadow)"/>
     <text x="200" y="50" text-anchor="middle" style="font-size:26px;font-weight:bold;fill:#1F2937">Training Configuration</text>
     
     <g transform="translate(30, 95)">
