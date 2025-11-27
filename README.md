@@ -458,6 +458,18 @@ python generate.py \
 
 ---
 
+## Citation
+
+If you use this code in your research, please cite:
+```bibtex
+@misc{sahoo2024panoramic,
+  author       = {Sahoo, Anshuman and Chamola, Vinay},
+  title        = {PanoramicGAN: Conditional GAN for Panoramic Scene Generation},
+  year         = {2024},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/yourusername/panoramic-gan}}
+}
+
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
