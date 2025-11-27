@@ -1,0 +1,69 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch Model Files (large!)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Training Outputs
+outputs/
+checkpoints/
+generated/
+evaluation_results/
+academic_evaluation/
+logs/
+runs/
+
+# Datasets (if large)
+data/
+dataset/
+datasets/
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
