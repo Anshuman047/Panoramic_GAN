@@ -460,7 +460,6 @@ python generate.py \
 
 ## Citation
 
-If you use this code in your research, please cite:
 ```bibtex
 @misc{sahoo2025panoramic,
   author       = {Sahoo, Anshuman and Chamola, Vinay},
